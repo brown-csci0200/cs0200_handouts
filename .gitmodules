@@ -1,0 +1,4 @@
+[submodule "cs0200_handouts.github.io"]
+	path = cs0200_handouts.github.io
+	url = https://github.com/brown-csci0200/cs0200_handouts.github.io.git
+	branch = main
